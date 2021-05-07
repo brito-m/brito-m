@@ -1,25 +1,6 @@
+<a href="https://www.linkedin.com/in/marcelo-brito" target="_blank"><img src="https://img.shields.io/badge/My-LinkedIn-blue" target="_blank"></a>
 <h1 align="left">Hi 👋, I'm Marcelo Brito, </h1>
 <p> Agronomy student and fascinated by Remote Sensing, Geoprocessing and Data Science. </p>
 
-<a href="https://www.linkedin.com/in/marcelo-brito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://qgis.org//" target="_blank"> <img src="https://raw.githubusercontent.com/qgis/QGIS/1a3be589d3780f7dfb315da52e885ca6eef0900f/images/icons/qgis_icon.svg" alt="qgis" width="40" height="40"/> </a> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-
-
-
-
-<!--
-**marcelobrito-mvab/marcelobrito-mvab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
