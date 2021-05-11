@@ -3,24 +3,24 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="python.org">
+  <a href="https://www.python.org/">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
-  <a href="jupyter.org">
+  <a href="https://www.jupyter.org">
     <img height="40" src="https://jupyter.org/assets/main-logo.svg">
   </a>
-  <a href="earthengine.google.com">
+  <a href="https://www.earthengine.google.com">
     <img height="40" src="https://raw.githubusercontent.com/marcelobrito-mvab/marcelobrito-mvab/29166dfa42c0966451c24ba740f30eced4342960/icons/google-earth-engine.svg">
   </a>
-  <a href="qgis.org/">
+  <a href="https://www.qgis.org/">
     <img height="40" src="https://raw.githubusercontent.com/qgis/QGIS/1a3be589d3780f7dfb315da52e885ca6eef0900f/images/icons/qgis_icon.svg">
   </a>
-  <a href="linux.org">
+  <a href="https://www.linux.org">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   </a>
 <h3 align="left">Contact:</h3>
 <p align="left">
-  <a href="linkedin.com/in/marcelo-brito">
+  <a href="https://www.linkedin.com/in/marcelo-brito">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/marcelo-brito">
   </a>  
   
