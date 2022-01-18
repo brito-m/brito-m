@@ -6,9 +6,6 @@
   <a href="https://www.python.org/">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   </a>
-  <a href="https://www.jupyter.org">
-    <img height="40" src="https://jupyter.org/assets/main-logo.svg">
-  </a>
   <a href="https://earthengine.google.com">
     <img height="40" src="https://raw.githubusercontent.com/marcelobrito-mvab/marcelobrito-mvab/29166dfa42c0966451c24ba740f30eced4342960/icons/google-earth-engine.svg">
   </a>
