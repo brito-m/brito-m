@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Marcelo Brito, </h1>
 <p> Agronomy student and fascinated by Remote Sensing, Geoprocessing and Data Science. </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://www.python.org/">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -15,7 +15,7 @@
   <a href="https://www.linux.org">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   </a>
-<h3 align="left">Contact:</h3>
+<h3 align="left">Contact</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/marcelo-brito">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/marcelo-brito">
