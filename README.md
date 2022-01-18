@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Marcelo Brito, </h1>
+<h1 align="left">Hi 👋, I'm Marcelo Brito </h1>
 <p> Agronomy student and fascinated by Remote Sensing, Geoprocessing and Data Science. </p>
 
 <h3 align="left">Languages and Tools</h3>
